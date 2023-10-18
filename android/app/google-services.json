@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12648168338",
+    "project_id": "maps-marker-db",
+    "storage_bucket": "maps-marker-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12648168338:android:ff2047fb07658e6ffc5f4b",
+        "android_client_info": {
+          "package_name": "com.example.maps_marker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYCzI_tUMp8o8RsSEQYam1oRLdTzzhGyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
