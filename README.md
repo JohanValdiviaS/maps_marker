@@ -1,5 +1,5 @@
 ## Título
-#Maps Marker
+Maps Marker
 
 ## Descripción
 Maps Marker es una aplicación móvil que te permite explorar mapas interactivos, ver tu ubicación actual y agregar marcadores personalizados para marcar lugares importantes o de interés.
